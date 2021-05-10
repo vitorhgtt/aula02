@@ -1,0 +1,19 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "Meu primeiro app nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhgtt/aula02.git"
+  },
+  "author": "Vitor Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorhgtt/aula02/issues"
+  },
+  "homepage": "https://github.com/vitorhgtt/aula02#readme"
+}
